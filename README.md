@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JamesSenva
 - 👀 I’m interested in anything related programming.
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m a Software Engineer.
 - 💞️ I’m looking to collaborate on Web Development projects.
 - 📫 You can reach me by email jamessenva@gmail.com
 - I started learning Web Development from the Odin Project from 28th Nov 2021.
