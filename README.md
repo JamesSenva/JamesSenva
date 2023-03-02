@@ -2,7 +2,6 @@
 - 👀 I’m interested in anything related programming.
 - 🌱 I’m a Software Engineer.
 - 💞️ I’m looking to collaborate on Web Development projects.
-- 📫 You can reach me by email jamessenva@gmail.com
 
 
 <!---
