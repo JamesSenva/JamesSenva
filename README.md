@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @JamesSenva
-- 👀 I’m interested in anything related programming.
-- 🌱 I’m a Software Engineer.
-- 💞️ I’m looking to collaborate on Web Development projects.
+- 👋 Hi, I’m @JamesSenva, a Software Engineer.
+- 👀 I’m interested in anything related programming. and
+- looking forward to collaborate on Web Development projects.
 
 
 <!---
